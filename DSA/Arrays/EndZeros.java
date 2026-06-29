@@ -1,4 +1,4 @@
-package DSA.Arrays;
+package 03-DSA.Arrays;
 import java.util.Scanner;
 public class EndZeros{
     public static void main(String[] args){
